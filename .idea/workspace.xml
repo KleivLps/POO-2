@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ddc837d-e1a8-48be-b3d2-c97f96f95bdd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EVENTOSRANDOM/EventosAstronomicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionarTareas/GestorTareas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestionarTareas/Tarea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestorProgramasTelevision/GrillaProgramacionTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GestorProgramasTelevision/Programas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/MENUINTERACTIVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/adivinarFecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/ajustarHora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/calcularEdad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/convertirATokio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/convertirSegundosATiempoLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/diferenciaEntreFechas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/diferenciaEntreTiempos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/fechaActual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/fechaDeCumpleaños.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/formatoFecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/mitadHastaMedianoche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/modificarFecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/restanteHastaMedianoche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/restarFecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/segundosDeInicioDeDia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/solicitarFecha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/verificarAñoBisiesto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JAVATIMEAPI/zonaHoraria.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2lP7aIsK3UvlPCOc3Nv837ivS9u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EventosAstronomicos.executor": "Run",
+    "Application.GestorTareas.executor": "Run",
+    "Application.GrillaProgramacionTV.executor": "Run",
+    "Application.MENUINTERACTIVO.executor": "Run",
+    "Application.ajustarHora.executor": "Debug",
+    "Application.biblioteca.executor": "Run",
+    "Application.calcularEdad.executor": "Run",
+    "Application.convertirATokio.executor": "Run",
+    "Application.diferenciaEntreFechas.executor": "Run",
+    "Application.menuInteractivo.executor": "Run",
+    "Application.planoCartesiano.executor": "Run",
+    "Application.zonaHoraria.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.GrillaProgramacionTV">
+    <configuration name="EventosAstronomicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EVENTOSRANDOM.EventosAstronomicos" />
+      <module name="POO 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EVENTOSRANDOM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestorTareas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GestionarTareas.GestorTareas" />
+      <module name="POO 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GestionarTareas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GrillaProgramacionTV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GestorProgramasTelevision.GrillaProgramacionTV" />
+      <module name="POO 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GestorProgramasTelevision.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MENUINTERACTIVO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVATIMEAPI.MENUINTERACTIVO" />
+      <module name="POO 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVATIMEAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="diferenciaEntreFechas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVATIMEAPI.diferenciaEntreFechas" />
+      <module name="POO 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVATIMEAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GrillaProgramacionTV" />
+        <item itemvalue="Application.GestorTareas" />
+        <item itemvalue="Application.EventosAstronomicos" />
+        <item itemvalue="Application.MENUINTERACTIVO" />
+        <item itemvalue="Application.diferenciaEntreFechas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ddc837d-e1a8-48be-b3d2-c97f96f95bdd" name="Changes" comment="" />
+      <created>1725069920405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725069920405</updated>
+    </task>
+    <servers />
+  </component>
+</project>
